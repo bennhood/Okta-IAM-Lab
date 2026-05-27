@@ -1,7 +1,9 @@
 ---
 When/Why to use SAML
 ---
+
 <img width="793" height="414" alt="1  saml_guidance_saml_flow infograph" src="https://github.com/user-attachments/assets/54f4c5e7-17e7-438e-84f9-97daa1ed608f" />
+
 ---
 SAML flow
 ---
